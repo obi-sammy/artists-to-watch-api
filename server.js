@@ -131,7 +131,7 @@ app.get('/artists/:artistName', (request, response) => {
     }else{
         response.status(404).send(
             `<h1>Artist not found on the server</h1>
-            <h2>Go to localhost:2121/artists</h2>`)
+            <h2>Go to https://rose-defiant-quail.cyclic.app/artists</h2>`)
     }
 })
 
