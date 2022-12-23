@@ -2,4 +2,4 @@
 
 ## How It's Made:
 
-**Tech used:** HTML,Express.js.
+**Tech used:** HTML, Express.js.
